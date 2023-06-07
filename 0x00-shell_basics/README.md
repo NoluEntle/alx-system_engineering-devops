@@ -1,1 +1,1 @@
-current directory contents in aclong format
+current directory contents, including hidden files (starting with .). Use the long format
